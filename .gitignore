@@ -1,0 +1,8 @@
+base/bin/
+base/include/
+base/lib/
+base/lib64
+base/share/
+base/__pycache__/
+base/.pytest_cache/
+*.pyc
